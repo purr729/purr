@@ -12,7 +12,7 @@
         "name": "데모2 (Minecraft 1.19.4)",
         "description": "Demo Running Minecraft 1.19.4 (Forge v45.0.9)",
         "icon": "https://helios-files.geekcorner.eu.org/servers/Demo-1.19.4/Demo-1.19.4.png",
-        "version": "1.0.0",
+        "version": "1.0.3",
         "address": "localhost:25565",
         "minecraftVersion": "1.19.4",
         "discord": {
