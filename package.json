@@ -1,13 +1,13 @@
 {
-  "name": "helioslauncher",
-  "version": "2.0.7",
-  "productName": "Helios Launcher",
+  "name": "purr",
+  "version": "1.0.0",
+  "productName": "PURR",
   "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "author": "Daniel Scalzi (https://github.com/purr729/)",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "homepage": "https://github.com/purr729/purr",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "https://github.com/purr729/purr/issues"
   },
   "private": true,
   "main": "index.js",
@@ -32,7 +32,7 @@
     "fs-extra": "^11.1.1",
     "github-syntax-dark": "^0.5.0",
     "got": "^11.8.5",
-    "helios-core": "~2.0.7",
+    "helios-core": "~2.0.6",
     "helios-distribution-types": "^1.2.0",
     "jquery": "^3.7.1",
     "lodash.merge": "^4.6.2",
@@ -46,6 +46,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/purr729/purr.git"
   }
 }
